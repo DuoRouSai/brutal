@@ -5,15 +5,15 @@
 
 ## Install
 
-```
-    npm  install @duor/brutal_duor
+````
+npm  install @duor/brutal_duor
+````
 
-```
+
 
 ## Usage
 
-```
+```js
 import { init } from "@duor/brutal_duor"
 
 init()
-```
