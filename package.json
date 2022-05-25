@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "DuoRouSai",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": "https://github.com/DuoRouSai/brutal",
+  "keywords": [
+    "npm",
+    "package",
+    "brutal"
+  ]
+
 }
