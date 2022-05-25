@@ -1,0 +1,11 @@
+{
+  "name": "brutal_duor",
+  "version": "1.0.0",
+  "description": "the first time to publish my npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DuoRouSai",
+  "license": "ISC"
+}
